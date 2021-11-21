@@ -1,0 +1,8 @@
+{
+    "eslint.alwaysShowStatus": true,
+    "npm.enableRunFromFolder": true,
+    "npm.runSilent": true,
+    "npm.enableTouchbar": true,
+    "git.allowForcePush": true,
+    "npm.runInTerminal": true
+}
